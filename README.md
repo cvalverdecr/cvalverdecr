@@ -24,3 +24,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### **Places you can find me at**
+
+***
+
+
+  *  **[Twitter]**(https://twitter.com/cvalverdecr
+  *  **[Instragram]**(https://www.instagram.com/cvalverdecr/)
+  *  **[Facebook]**(https://www.facebook.com/carlos.valverdecarvajal)
+   
+Or you can also drop me an **[email](mailto:cvalverdecr@icloud.com)**.
+
