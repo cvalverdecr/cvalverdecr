@@ -31,9 +31,10 @@ Here are some ideas to get you started:
 ***
 
 
-  *  **[Twitter]**(https://twitter.com/cvalverdecr
-  *  **[Instragram]**(https://www.instagram.com/cvalverdecr/)
-  *  **[Facebook]**(https://www.facebook.com/carlos.valverdecarvajal)
+  *  [Twitter](https://twitter.com/cvalverdecr)
+  *  [Instragram](https://www.instagram.com/cvalverdecr/)
+  *  [Facebook](https://www.facebook.com/carlos.valverdecarvajal)
    
 Or you can also drop me an **[email](mailto:cvalverdecr@icloud.com)**.
+
 
