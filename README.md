@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Mi name is Carlos Valverde, I'm an apassionate from computer science from San José, Costa Rica 🇨🇷
+
+With some years of expirience in Microsoft technologies and now using new technologies, willing to learn new stuff everyday and help people get into technology.
+
+🌱 I’m currently learning React Native, DotNet Core, Xamarin, Android.
+
+⚡  Fun fact: I like cyclism (Road & MTB), also the Crossfit
+
+
+
 <!--
 **cvalverdecr/cvalverdecr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
